@@ -1,5 +1,11 @@
 # Stepcraft CNC - Fräsvorlagen & STL-Dateien
 
+
+<!-- featured-project-image -->
+<p align="center"><img src="amirmobasher.png" alt="Stepcraft CNC repository image and project designs" width="960"/></p>
+<p align="center"><sub>Amir Mobasheraghdam</sub></p>
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Amirmobash/stepcraft)
 ![GitHub stars](https://img.shields.io/github/stars/Amirmobash/stepcraft?style=social)
 ![GitHub license](https://img.shields.io/github/license/Amirmobash/stepcraft)
